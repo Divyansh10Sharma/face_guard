@@ -24,7 +24,7 @@ All alerts are voice-only (offline TTS via `pyttsx3`, no internet needed). A *"Y
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/face_guard.git
+git clone https://github.com/Divyansh10Sharma/face_guard.git
 cd face_guard
 
 # 2. Install dependencies
