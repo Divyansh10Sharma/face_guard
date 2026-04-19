@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+.env
+*.egg-info/
+
+# Personal session data — excluded intentionally, not meant for version control
+session_log.json
+
+# Claude Code local settings
+.claude/
+
+# Frontend dependencies and build output
+Frontend/node_modules/
+Frontend/dist/
+Frontend/.vite/
